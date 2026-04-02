@@ -76,7 +76,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'Automático',
     fuel: 'Flex',
     price: 'R$ 158.000',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jeep_Compass_S_2022.jpg',
+    image: 'https://mundodoautomovelparapcd.com.br/wp-content/uploads/2024/12/Jeep-Compass-Longitude-2025-1024x683.jpg',
     description: 'SUV imponente, confortável e perfeito para quem busca mais presença.',
     categories: ['Luxo', 'SUV'],
     badge: 'Oportunidade'
@@ -103,7 +103,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'Automático',
     fuel: 'Flex',
     price: 'R$ 79.900',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Chevrolet_Onix_1.0T_Premier_2020_(Brazil).jpg',
+    image: 'https://cdn.autopapo.com.br/box/uploads/2017/06/21100251/Onix-1-732x488.jpg',
     description: 'Hatch moderno, econômico e excelente para uso urbano.',
     categories: ['Casual', 'Hatch'],
     badge: 'Baixa KM'
@@ -117,7 +117,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'Automático',
     fuel: 'Flex',
     price: 'R$ 98.000',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jeep_Renegade_Sport_2021.jpg',
+    image: 'https://s2-autoesporte.glbimg.com/2stdYPZsm3cGwA1uBdCcl1eO0mQ=/0x0:1500x995/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2023/m/A/ZH6OXuRS6ymXtDxpxGEA/jeeprenegadesport01.jpg',
     description: 'SUV robusto e versátil, ideal para aventuras urbanas e viagens.',
     categories: ['SUV'],
     badge: 'Oferta'
@@ -130,7 +130,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'Automático',
     fuel: 'Flex',
     price: 'R$ 165.000',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2022_Hyundai_Creta.jpg',
+    image: 'https://cdn.motor1.com/images/mgl/AkB0gV/s1/hyundai-creta-ultimate-2.0.webp',
     description: 'SUV moderno com tecnologia de ponta e conforto excepcional.',
     categories: ['SUV'],
     isNew: true
@@ -144,7 +144,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'CVT',
     fuel: 'Flex',
     price: 'R$ 112.000',
-    image: 'https://images.unsplash.com/photo-1592198084033-aade902d1aae?q=80&w=1000&auto=format&fit=crop',
+    image: 'https://revistacarro.com.br/wp-content/uploads/2018/05/city_2015_553x337.png',
     description: 'Sedan compacto com excelente espaço interno e economia de combustível.',
     categories: ['Sedan'],
     badge: 'Recém-chegado'
@@ -158,7 +158,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'Manual',
     fuel: 'Flex',
     price: 'R$ 48.000',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Renault_Kwid_1.0_Zen_(2022)_(52721423597).jpg',
+    image: 'https://cdn.motor1.com/images/mgl/9mZAeX/s1/renault-kwid-zen-2023.webp',
     description: 'O SUV dos compactos, econômico e prático para a cidade.',
     categories: ['Econômicos', 'Casual'],
     badge: 'Entrada Facilitada'
@@ -171,7 +171,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'Manual',
     fuel: 'Flex',
     price: 'R$ 55.000',
-    image: 'https://images.unsplash.com/photo-1609521263047-f8f205293f24?q=80&w=1000&auto=format&fit=crop',
+    image: 'https://cdn.motor1.com/images/mgl/AkB8vL/s1/fiat-mobi-2023.webp',
     description: 'Compacto, ágil e perfeito para quem busca praticidade no trânsito.',
     categories: ['Econômicos', 'Hatch'],
     badge: 'Aceita Troca'
@@ -185,7 +185,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'DSG',
     fuel: 'Gasolina',
     price: 'R$ 215.000',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2022_Volkswagen_Jetta_GLI.jpg',
+    image: 'https://cdn.motor1.com/images/mgl/3Wnbq6/0:580:5784:4336/2025-volkswagen-jetta-gli.webp',
     description: 'Sedan esportivo com performance impressionante e luxo interior.',
     categories: ['Esportivos', 'Luxo'],
     isMostWanted: true
@@ -198,7 +198,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'Automático',
     fuel: 'Flex',
     price: 'R$ 320.000',
-    image: 'https://images.unsplash.com/photo-1556185781-a47769abb7ee?q=80&w=1000&auto=format&fit=crop',
+    image: 'https://cdn.motor1.com/images/mgl/KPK4R/s1/bmw-320i-m-sport-2021-teste-br.jpg',
     description: 'O puro prazer de dirigir com sofisticação e tecnologia alemã.',
     categories: ['Esportivos', 'Luxo'],
     isNew: true
@@ -212,7 +212,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'Manual',
     fuel: 'Flex',
     price: 'R$ 95.000',
-    image: 'https://images.unsplash.com/photo-1621236304195-06bb1d5f48ae?q=80&w=1000&auto=format&fit=crop',
+    image: 'https://production.autoforce.com/uploads/version/profile_image/6254/comprar-freedom-cs-1-3_3a8a33afd4.png',
     description: 'Versátil, resistente e ideal para trabalho ou uso diário.',
     categories: ['Utilitários'],
     badge: 'Oportunidade'
@@ -225,7 +225,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'Manual',
     fuel: 'Flex',
     price: 'R$ 78.000',
-    image: 'https://images.unsplash.com/photo-1619767886558-efdc259cde1a?q=80&w=1000&auto=format&fit=crop',
+    image: 'https://s3.amazonaws.com/altimus2.arquivos.prod/cfdd9211-1690-4ff4-ae9a-f7bb4685aa9b/fotos/veiculo/cfd9fb04ab6a4fbf97c82c94c650ce64_1718727991302.jpg',
     description: 'Picape compacta robusta e confiável para qualquer desafio.',
     categories: ['Utilitários'],
     badge: 'Baixa KM'
@@ -239,7 +239,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'Manual',
     fuel: 'Flex',
     price: 'R$ 18.500',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2024_Honda_CG_160_Titan.jpg',
+    image: 'https://www.honda.com.br/motos/sites/hda/files/2025-08/visao-da-lateral-direita-da-honda-cg-160-titan.webp',
     description: 'Moto prática, econômico e muito procurada no dia a dia.',
     categories: ['Moto'],
     isNew: true
@@ -252,7 +252,7 @@ const VEHICLES: Vehicle[] = [
     transmission: 'Manual',
     fuel: 'Flex',
     price: 'R$ 22.000',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Yamaha_FZ25_2022.jpg',
+    image: 'https://motonewsbrasil.com/wp-content/uploads/2020/08/yamaha-fazer-250-abs-2021-1.jpg',
     description: 'Mais desempenho, conforto e estilo para rodar com confiança.',
     categories: ['Moto'],
     badge: 'Destaque'
@@ -315,12 +315,12 @@ const VehicleCard = ({ vehicle }: { vehicle: Vehicle; key?: string }) => {
       </div>
 
       {/* Image Container */}
-      <div className="relative h-64 overflow-hidden">
+      <div className="relative aspect-video overflow-hidden">
         <img 
           src={vehicle.image} 
           alt={vehicle.name}
           referrerPolicy="no-referrer"
-          className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+          className="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-110"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-premium-graphite via-transparent to-transparent opacity-60" />
       </div>
@@ -366,13 +366,13 @@ const VehicleCard = ({ vehicle }: { vehicle: Vehicle; key?: string }) => {
         <div className="flex flex-col gap-2">
           <WhatsAppLink 
             message={message}
-            className="w-full bg-white text-black font-bold py-3 rounded-xl flex items-center justify-center gap-2 hover:bg-premium-gold transition-all duration-300 transform group-hover:translate-y-[-2px]"
+            className="w-full backdrop-blur-md bg-white/10 border border-premium-gold/50 text-white font-bold py-3 rounded-xl flex items-center justify-center gap-2 hover:bg-premium-gold/20 transition-all duration-300 transform group-hover:translate-y-[-2px]"
           >
             Ver Detalhes
           </WhatsAppLink>
           <WhatsAppLink 
             message={message}
-            className="w-full bg-transparent border border-white/10 text-white font-medium py-3 rounded-xl flex items-center justify-center gap-2 hover:bg-white/5 transition-colors text-sm"
+            className="w-full backdrop-blur-sm bg-white/5 border border-white/10 text-white font-medium py-3 rounded-xl flex items-center justify-center gap-2 hover:bg-white/10 transition-colors text-sm"
           >
             <MessageCircle size={16} className="text-premium-gold" />
             Falar no WhatsApp
@@ -403,7 +403,7 @@ const SmartCatalog = () => {
           <div className="relative max-w-xs mx-auto z-30">
             <button
               onClick={() => setIsOpen(!isOpen)}
-              className="w-full bg-premium-graphite border border-white/10 px-6 py-4 rounded-2xl flex items-center justify-between text-white font-bold hover:border-premium-gold/50 transition-all shadow-xl"
+              className="w-full backdrop-blur-md bg-white/5 border border-white/10 px-6 py-4 rounded-2xl flex items-center justify-between text-white font-bold hover:border-premium-gold/50 transition-all shadow-xl"
             >
               <div className="flex flex-col items-start">
                 <span className="text-[10px] text-premium-gold uppercase tracking-widest mb-1">Categoria</span>
@@ -507,7 +507,7 @@ export default function App() {
             <a href="#estoque" className="text-sm font-medium hover:text-premium-gold transition-colors">Estoque</a>
             <a href="#sobre" className="text-sm font-medium hover:text-premium-gold transition-colors">Sobre Nós</a>
             <a href="#depoimentos" className="text-sm font-medium hover:text-premium-gold transition-colors">Depoimentos</a>
-            <WhatsAppLink message={DEFAULT_MESSAGE} className="bg-premium-gold text-black px-6 py-2.5 rounded-full font-bold text-sm hover:scale-105 transition-transform flex items-center gap-2">
+            <WhatsAppLink message={DEFAULT_MESSAGE} className="backdrop-blur-md bg-white/10 border border-premium-gold/50 text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-premium-gold/20 transition-all flex items-center gap-2">
               <MessageCircle size={18} />
               WhatsApp
             </WhatsAppLink>
@@ -532,7 +532,7 @@ export default function App() {
             <a href="#estoque" onClick={() => setMobileMenuOpen(false)} className="text-2xl font-bold">Estoque</a>
             <a href="#sobre" onClick={() => setMobileMenuOpen(false)} className="text-2xl font-bold">Sobre Nós</a>
             <a href="#depoimentos" onClick={() => setMobileMenuOpen(false)} className="text-2xl font-bold">Depoimentos</a>
-            <WhatsAppLink message={DEFAULT_MESSAGE} className="bg-premium-gold text-black px-10 py-4 rounded-full font-bold text-lg flex items-center gap-2">
+            <WhatsAppLink message={DEFAULT_MESSAGE} className="backdrop-blur-md bg-white/10 border border-premium-gold/50 text-white px-10 py-4 rounded-full font-bold text-lg flex items-center gap-2 hover:bg-premium-gold/20 transition-all">
               <MessageCircle size={24} />
               Falar Agora
             </WhatsAppLink>
@@ -572,14 +572,14 @@ export default function App() {
             <div className="flex flex-col md:flex-row items-center justify-center gap-4">
               <WhatsAppLink 
                 message={DEFAULT_MESSAGE}
-                className="w-full md:w-auto bg-premium-gold text-black px-10 py-5 rounded-2xl font-black text-lg flex items-center justify-center gap-3 hover:scale-105 transition-transform shadow-[0_0_30px_rgba(212,175,55,0.3)]"
+                className="w-full md:w-auto backdrop-blur-xl bg-white/10 border border-premium-gold/50 text-white px-10 py-5 rounded-2xl font-black text-lg flex items-center justify-center gap-3 hover:scale-105 hover:bg-premium-gold/20 transition-all shadow-[0_0_30px_rgba(212,175,55,0.2)]"
               >
                 <MessageCircle size={24} />
                 QUERO FALAR NO WHATSAPP
               </WhatsAppLink>
               <a 
                 href="#estoque"
-                className="w-full md:w-auto bg-white/5 backdrop-blur-md border border-white/10 text-white px-10 py-5 rounded-2xl font-bold text-lg flex items-center justify-center gap-2 hover:bg-white/10 transition-colors"
+                className="w-full md:w-auto backdrop-blur-md bg-white/5 border border-white/20 text-white px-10 py-5 rounded-2xl font-bold text-lg flex items-center justify-center gap-2 hover:bg-white/10 transition-all"
               >
                 VER VEÍCULOS
                 <ArrowRight size={20} />
@@ -797,7 +797,7 @@ export default function App() {
             </p>
             <WhatsAppLink 
               message={DEFAULT_MESSAGE}
-              className="inline-flex bg-premium-gold text-black px-12 py-6 rounded-2xl font-black text-xl items-center gap-3 hover:scale-105 transition-transform shadow-[0_0_50px_rgba(212,175,55,0.2)]"
+              className="inline-flex backdrop-blur-xl bg-white/10 border border-premium-gold/50 text-white px-12 py-6 rounded-2xl font-black text-xl items-center gap-3 hover:scale-105 hover:bg-premium-gold/20 transition-all shadow-[0_0_50px_rgba(212,175,55,0.1)]"
             >
               <MessageCircle size={28} />
               FALAR NO WHATSAPP AGORA
@@ -832,10 +832,10 @@ export default function App() {
       {/* --- Floating WhatsApp Button --- */}
       <WhatsAppLink 
         message={DEFAULT_MESSAGE}
-        className="fixed bottom-6 right-6 z-50 bg-whatsapp text-white w-16 h-16 rounded-full flex items-center justify-center shadow-[0_10px_30px_rgba(37,211,102,0.4)] hover:scale-110 transition-transform group"
+        className="fixed bottom-6 right-6 z-50 backdrop-blur-md bg-whatsapp/80 border border-white/20 text-white w-16 h-16 rounded-full flex items-center justify-center shadow-[0_10px_30px_rgba(37,211,102,0.3)] hover:scale-110 transition-transform group"
       >
         <MessageCircle size={32} />
-        <span className="absolute right-full mr-4 bg-white text-black px-4 py-2 rounded-lg text-sm font-bold whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none shadow-xl">
+        <span className="absolute right-full mr-4 backdrop-blur-md bg-white/90 text-black px-4 py-2 rounded-lg text-sm font-bold whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none shadow-xl border border-white/20">
           Fale conosco agora!
         </span>
       </WhatsAppLink>
